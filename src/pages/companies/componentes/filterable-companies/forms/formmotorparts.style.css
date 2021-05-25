@@ -1,0 +1,14 @@
+.form-motorparts-container{
+
+    border: 8px rgb(139, 103, 36) solid;
+    width: 27%;
+    min-height: 5px;
+    margin: 20px auto;
+    border-width: 10px;
+    text-align: right;
+   
+}
+th{
+    font-weight: bold;
+    
+}

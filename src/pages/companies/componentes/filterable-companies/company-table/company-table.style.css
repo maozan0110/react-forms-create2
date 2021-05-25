@@ -1,0 +1,23 @@
+.company-table-container {
+    width: 55%; 
+   min-height: 340px;
+   border: 10px solid rgb(1, 17, 9);
+   margin: 19px auto;
+   margin-left: 50px;
+   float: left;
+   background-image: url('car.jpg');
+   background-repeat: no-repeat;
+   background-position: bottom right 20%;
+   border-width: 10px;
+   border-style: solid;
+
+      border-top-color: rgb(187, 32, 5);
+      border-right-color: rgb(192, 25, 3);
+      border-bottom-color: rgb(136, 114, 44);
+      border-left-color: rgb(138, 119, 33);
+}
+
+.lis1{
+    word-spacing: 140px;
+
+}

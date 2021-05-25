@@ -1,0 +1,14 @@
+.filterable-companies-container {
+    width: 80%; 
+    margin: 0 auto;
+    min-height: 690px;
+    border: 5px solid rgb(199, 149, 10);
+    background-image: url('carro.jpg');
+    background-position: bottom left 99%;
+    background-repeat: no-repeat;
+    background-position: right right;
+    background-size: 25%;
+    background-color: beige;
+    
+  }
+ 

@@ -1,0 +1,9 @@
+.form-company-container{
+    border: 8px rgb(168, 148, 35) solid;
+    width: 30%;
+    min-height: 15px;
+    margin: 120px auto;
+   
+    text-align: right;
+   
+}
